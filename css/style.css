@@ -1,0 +1,17 @@
+body {
+  background-color: #b5825e;
+}
+
+.wrapper {
+  width: 90%;
+}
+
+.gallery {
+  max-width: 90%;
+  list-style: none;
+}
+
+.gallery img {
+  max-width: 45%;
+  float: left;
+}
