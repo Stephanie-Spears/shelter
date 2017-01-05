@@ -1,5 +1,6 @@
 body {
   background-color: #b5825e;
+  text-align: center;
 }
 
 .wrapper {
@@ -14,6 +15,7 @@ body {
 .gallery img {
   max-width: 45%;
   float: left;
+  margin: 2.5%;
 }
 
 
@@ -26,5 +28,5 @@ body {
 }
 
 @media screen and (min-width: 768px) {
-  
+
 }
